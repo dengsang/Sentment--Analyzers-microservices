@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94f9a15b-e2f8-4afb-b85d-a6e149c74358" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Sentment--Analyzers-microservices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sa-frontend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sa-frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-logic/sa/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-webapp/src/main/java/com/sa/web/SentimentAnalysisWebApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/sa-webapp/src/main/java/com/sa/web/SentimentAnalysisWebApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/asset-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/sa-icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/service-worker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/static/css/main.6469d74d.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/static/css/main.6469d74d.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/static/js/main.4d17b191.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sa-frontend/build/static/js/main.4d17b191.js.map" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1546,12 +1546,12 @@
       <workItem from="1534262306164" duration="1922000" />
       <workItem from="1534264377083" duration="4502000" />
       <workItem from="1534323342913" duration="3925000" />
-      <workItem from="1534344657357" duration="11291000" />
+      <workItem from="1534344657357" duration="11961000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62496000" />
+    <option name="totallyTimeSpent" value="63166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1577,7 +1577,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32874355" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49717057" weight="0.32874355" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49312854" visible="true" weight="0.35111877" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49312854" visible="true" weight="0.5989673" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50687146" side_tool="true" weight="0.35111877" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
