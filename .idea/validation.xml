@@ -10,7 +10,7 @@
         <entry key="Jasper Validator" value="true" />
         <entry key="Spring Model Validator" value="true" />
         <entry key="Spring Web Flow" value="true" />
-        <entry key="Web Xml Validator" value="true" />
+        <entry key="Web Xml Validator" value="false" />
       </map>
     </option>
   </component>

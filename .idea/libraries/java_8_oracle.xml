@@ -1,10 +1,13 @@
 <component name="libraryTable">
   <library name="java-8-oracle">
-    <CLASSES />
+    <CLASSES>
+      <root url="file:///usr/share/maven" />
+    </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="file:///usr/lib/jvm/java-8-oracle" />
     </SOURCES>
+    <jarDirectory url="file:///usr/share/maven" recursive="false" />
     <jarDirectory url="file:///usr/lib/jvm/java-8-oracle" recursive="false" type="SOURCES" />
   </library>
 </component>
