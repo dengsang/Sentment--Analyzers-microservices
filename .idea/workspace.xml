@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94f9a15b-e2f8-4afb-b85d-a6e149c74358" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Sentment--Analyzers-microservices.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Sentment--Analyzers-microservices.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/java_8_oracle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/java_8_oracle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/validation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/validation.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resource-manifests/sa-frontend-deployment.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/resource-manifests/sa-frontend-deployment.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/sa-frontend/build/asset-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sa-frontend/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/build/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/sa-frontend/build/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/build/static/js/main.f269b07a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/build/static/js/main.f269b07a.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/sa-frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-logic/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/sa-logic/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sa-logic/sa/requirements.txt." beforeDir="false" />
-    </list>
+    <list default="true" id="94f9a15b-e2f8-4afb-b85d-a6e149c74358" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sentiment_analysis/target/" />
@@ -686,12 +669,12 @@
       <workItem from="1536226013594" duration="440000" />
       <workItem from="1536252485079" duration="874000" />
       <workItem from="1536565035988" duration="4148000" />
-      <workItem from="1536572657381" duration="1569000" />
+      <workItem from="1536572657381" duration="2339000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="229438000" />
+    <option name="totallyTimeSpent" value="230208000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
